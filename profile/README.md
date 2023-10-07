@@ -1,9 +1,9 @@
 # My Apps
 
-A suite of apps developed by myself, that I use daily.
+A set of apps that I developed and use daily.
 
 # Contribution
 
 Currently, there is no public repository to contribute to.
 
-You can follow me to be notified when there is public repository you can contribute to.
+You can follow me to be notified when there is a repository you can contribute to.
